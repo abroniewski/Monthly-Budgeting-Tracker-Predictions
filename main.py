@@ -1,3 +1,6 @@
+# this code was created by typing prompts as comments and having GitHub CoPilot complete the code
+# some minor edits were made to the code to make it work
+
 # import necessary libraries
 import pandas as pd
 import os
